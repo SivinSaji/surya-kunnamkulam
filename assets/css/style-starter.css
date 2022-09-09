@@ -14348,3 +14348,70 @@ h4.text-head-content {
 }
 
 }
+
+
+
+
+/*--//about--*/
+/*--/w3l-grids-3hny--*/
+.w3l-grids-3hny {
+  background-color: var(--bg-grey);
+}
+
+.w3l-grids-3hny img.news-image {
+  border-radius: var(--border-radius);
+}
+
+.w3l-grids-3hny h4 a {
+  font-size: 22px;
+  line-height: 32px;
+  font-weight: 700;
+  margin-bottom: 8px;
+  display: block;
+  color: var(--heading-color);
+}
+
+.w3l-grids-3hny h4 a:hover {
+  color: var(--primary-color);
+  transition: 0.3s ease-in-out;
+}
+
+.w3l-grids-3hny .grids3-info-in {
+  display: grid;
+  grid-template-columns: 1fr 7fr;
+  grid-gap: 10px 20px;
+  margin-top: 26px;
+}
+
+.w3l-grids-3hny .grids3-info-in i {
+  color: var(--primary-color);
+  font-size: 36px;
+  margin-top: 4px;
+}
+
+.grids-of-3-saas-info {
+  position: relative;
+  padding: 20px 30px;
+}
+
+.grids-of-3-saas-info h5 a {
+  background: var(--bg-color);
+  padding: 12px;
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  top: -32px;
+  z-index: 99;
+  max-width: 68%;
+  border-radius: var(--border-radius);
+  box-shadow: rgb(1 1 1 / 5%) 1px 1px 5px 0px;
+  font-weight: 700;
+  color: var(--primary-color);
+}
+
+p.saas-para {
+  margin-top: 20px;
+}
+
+/*--//w3l-grids-3hny--*/
