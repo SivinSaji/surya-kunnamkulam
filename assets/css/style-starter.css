@@ -12855,7 +12855,7 @@ p.count-text {
 /*-- //play icon animation --*/
 .grid-content-spe {
   background: var(--bg-color);
-  border: 10px solid var(--bg-color);
+  border: 5px solid var(--bg-color);
   border-radius: 4px;
   box-shadow: 0 1rem 3rem var(--box-shadow-color);
 }
