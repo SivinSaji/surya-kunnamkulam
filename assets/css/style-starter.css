@@ -14335,12 +14335,17 @@ h4.text-head-content {
     display: none;
   }
 
+
 }
 @media screen and (min-width: 600px) {
   /*Hide in medium Devices*/
   .desktop3{
     display: none;
 }
+#carouselExampleIndicators{
+  width:70%;
+}
+
 .w3l-banner {
   min-height: calc(100vh - 80px);
 }
