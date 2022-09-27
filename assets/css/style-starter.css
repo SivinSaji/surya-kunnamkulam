@@ -11873,21 +11873,18 @@ div#small-dialog iframe {
 #movetop {
   position: fixed;
   bottom: 90px;
-  right: 15px;
+  right: 17px;
   z-index: 9;
-  font-size: 16px;
   border: none;
   outline: none;
   cursor: pointer;
-  color: #fff;
-  width: 40px;
-  height: 40px;
-  background: #25d366;
-  border-radius: 4px;
-  -webkit-border-radius: 4px;
-  -o-border-radius: 4px;
-  -moz-border-radius: 4px;
-  -ms-border-radius: 4px;
+  background-color:#25d366;
+	color:#FFF;
+	border-radius:40px;
+	text-align:center;
+  font-size:24px;
+  width:48px;
+	height:48px;
   padding: 0;
 }
 
