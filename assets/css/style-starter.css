@@ -11873,7 +11873,7 @@ div#small-dialog iframe {
 #movetop {
   position: fixed;
   bottom: 90px;
-  right: 17px;
+  right: 0px;
   z-index: 9;
   border: none;
   outline: none;
