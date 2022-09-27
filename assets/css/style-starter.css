@@ -11873,7 +11873,6 @@ div#small-dialog iframe {
 #movetop {
   position: fixed;
   bottom: 90px;
-  right: 0px;
   z-index: 9;
   border: none;
   outline: none;
@@ -14331,11 +14330,17 @@ h4.text-head-content {
   .mobile3 {
     display: none;
   }
+  #movetop{
+    right: 2px;
+  }
 
 
 }
 @media screen and (min-width: 600px) {
   /*Hide in medium Devices*/
+  #movetop{
+    right: 12px;
+  }
   .desktop3{
     display: none;
 }
