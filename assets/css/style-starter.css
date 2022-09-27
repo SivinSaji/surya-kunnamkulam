@@ -13744,7 +13744,7 @@ div#owl-demo2 .owl-dots {
 
 .footer-list-29 ul li a {
   color: #777679;
-  font-size: 17px;
+  font-size: 15px;
   line-height: 26px;
   padding: 0;
   text-transform: capitalize;
@@ -13754,15 +13754,6 @@ div#owl-demo2 .owl-dots {
 .footer-list-29 ul li a:hover,
 .footer-29-w3l p a:hover {
   opacity: 0.9;
-  color: #fff;
-}
-
-.footer-29-w3l p {
-  color: #777679;
-  font-size: 17px;
-}
-
-.footer-29-w3l p a {
   color: #fff;
 }
 
@@ -14346,6 +14337,10 @@ h4.text-head-content {
 }
 #carouselExampleIndicators{
   width:70%;
+}
+.content-section-grid h4 a {
+  font-size: 13px;
+  line-height: 22px;
 }
 
 .w3l-banner {
