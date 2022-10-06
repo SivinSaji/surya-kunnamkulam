@@ -14316,7 +14316,7 @@ h4.text-head-content {
 /* //contact */
 
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 1000px) {
   /*Hide in small Devices*/
   .mobile3 {
     display: none;
@@ -14327,7 +14327,7 @@ h4.text-head-content {
 
 
 }
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 1000px) {
   /*Hide in medium Devices*/
   #movetop{
     right: 12px;
